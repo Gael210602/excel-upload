@@ -1,0 +1,19 @@
+{
+  "name": "excel-upload",
+  "version": "1.0.0",
+  "description": "Coding challenge to upload excels and format them",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Gael210602/excel-upload.git"
+  },
+  "author": "Gael Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gael210602/excel-upload/issues"
+  },
+  "homepage": "https://github.com/Gael210602/excel-upload#readme"
+}
